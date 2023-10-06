@@ -24,7 +24,7 @@
         <a href="https://github.com/iqyyy"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
         <a href="https://github.com/iqyyy"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
-<!--     </tr>
+    </tr>
     <tr>
       <td>Narinda Genta Rosasia</td>
       <td>UI/UX Designer</td>
@@ -33,7 +33,6 @@
         <a href="https://github.com/narindagenta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
-    
     <tr>
     <td>Prasahsti Alya Anjani</td>
     <td>Frontend Engineer</td>
@@ -41,7 +40,7 @@
       <a href="https://github.com/zavirlee"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
       <a href="https://github.com/zavirlee"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </td>
-    </tr> -->
+    </tr>
   </table>
   </div>
 </body>
