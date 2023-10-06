@@ -1,10 +1,10 @@
 <body>
   <br>
-  <h2 align="center"> SIM_ARSIP </h2>h2>
+  <h2 align="center"> SIM_ARSIP </h2>
   <br>
   <p align="center">
   <a href="#">
-    <img src="https://github.com/A-EYE-see-the-unseen/.github/blob/main/404.png" alt="logo" />
+    <img src="https://github.com/SIM-Arsip/.github/blob/main/404.png" alt="logo" />
   </a>
   </p>
   <br>
