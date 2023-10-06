@@ -1,6 +1,6 @@
 <body>
   <br>
-  <h2 align="center"> SIM_ARSIP> </h2>h2>
+  <h2 align="center"> SIM_ARSIP </h2>h2>
   <br>
   <p align="center">
   <a href="#">
